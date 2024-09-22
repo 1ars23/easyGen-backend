@@ -11,20 +11,25 @@
 NestJS Login Signup repository.
 
 ## Project Steps
-#### Step 1
+#### Step 1: Cloning Project
+
+```bash
+$ git clone <Repository>
+```
+#### Step 2: Install Dependencies
 
 ```bash
 $ npm install
 ```
 
-#### Step 2
+#### Step 3: Setting up .ENV File
 
 ```bash
 # Setup Environment File
 $ cp .env.example .env
 ```
 
-#### Step 3
+#### Step 4: Running Project on Docker
 
 ```bash
 # Docker Setup
